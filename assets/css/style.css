@@ -41,6 +41,9 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
+    font-size: 150%;
+    line-height: 75px;
+    margin: 0 0.5rem;
 }
 
 #menu {
@@ -67,6 +70,7 @@ nav {
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
     top: 100%;
+    font-size: 90%;
 }
 
 /* Nav toggle */
@@ -83,12 +87,13 @@ nav {
     font-size: 2rem;
 }
 
+
 /* Main content */
 main {
     background-color: lightblue;
     /* Make main element take up any suprlus space to push footer down*/
     flex: 1 0 auto;
-    margin-top: 41px;
+    margin-top: 75px;
 }
 
 /* Footer */
@@ -123,5 +128,17 @@ footer {
 
     .nav-toggle-label {
         display: none;
+    }
+
+    #logo {
+        font-size: 150%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
+    /* Main Content */
+    main {
+        /* Push main content down to accommodate larger header */
+        margin-top: 75px;
     }
 }
