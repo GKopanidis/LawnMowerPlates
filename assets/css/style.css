@@ -203,7 +203,7 @@ main {
 
 #benefits-3 div {
     color: #fafafa;
-    background-color: rgba(0, 0, 0 , .6);
+    background-color: rgba(0, 0, 0, .6);
     padding: 15px;
     text-align: center;
     /* This will not wrap on screens less than 400px wide.
@@ -217,6 +217,16 @@ main {
 #benefits-3 h3 {
     /* Override the heading color set in general styles */
     color: #fafafa;
+}
+
+/* Gallery Page */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
 }
 
 /* Footer */
@@ -284,17 +294,19 @@ main {
     }
 
     /* Reasons Section */
-    #benefits-1, #benefits-2 {
+    #benefits-1,
+    #benefits-2 {
         display: flex;
         flex-direction: column;
         width: 100%;
     }
-    
-    #benefits-1 > div, #benefits-2 >div {
+
+    #benefits-1>div,
+    #benefits-2>div {
         width: 75%;
     }
 
-    #benefits-2 >div {
+    #benefits-2>div {
         text-align: end;
         align-self: flex-end;
     }
@@ -309,13 +321,14 @@ main {
 
 /*Media query for tablets and larger (1200px and above) */
 @media screen and (min-width: 1200px) {
+
     /* Reasons Section */
     #benefits {
         display: flex;
         flex-direction: row;
     }
 
-    #beneftis > div {
+    #beneftis>div {
         flex: 1;
     }
 
@@ -327,11 +340,11 @@ main {
         order: 1;
     }
 
-    #benefits-1 >div {
+    #benefits-1>div {
         align-self: flex-start;
     }
 
-    #benefits-2 > div {
-        align-self: flex-end    
+    #benefits-2>div {
+        align-self: flex-end
     }
 }
