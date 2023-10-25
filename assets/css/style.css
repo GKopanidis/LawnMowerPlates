@@ -43,7 +43,7 @@ h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
-    font-size: 130%;
+    font-size: 120%;
     line-height: 25px;
     margin: 0 0.5rem;
 }
@@ -169,6 +169,23 @@ main {
 #benefits hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
+}
+
+#circle-cover-bg {
+    background: url("../images/navimow-stand.webp") no-repeat center/cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a cricle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#benefits-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Footer */
