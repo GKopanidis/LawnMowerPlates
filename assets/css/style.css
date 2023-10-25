@@ -48,6 +48,10 @@ h3 {
     margin: 0 0.5rem;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
