@@ -188,6 +188,33 @@ main {
     justify-content: center;
 }
 
+/* Further Benefits Section */
+
+#benefits-3 {
+    background: url("../images/further-benefits-bg.jpg") no-repeat center/cover;
+    /* Handles responsivity with the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#benefits-3 div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0 , .6);
+    padding: 15px;
+    text-align: center;
+    /* This will not wrap on screens less than 400px wide.
+    Each div will expand to fill the available space on its row */
+    flex-basis: 200px;
+    flex-grow: 1;
+    /* Creates a grid of further benefits divs over the background image */
+    border: 2px solid white;
+}
+
+#benefits-3 h3 {
+    /* Override the heading color set in general styles */
+    color: #fafafa;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
