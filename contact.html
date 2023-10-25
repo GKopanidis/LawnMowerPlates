@@ -39,7 +39,38 @@
     </header>
 
     <!-- Main Content-->
-    <main>Main Content</main>
+    <main>
+        <section id="contact">
+            <form id="contact-form" method="post" action="https://formdump.codeinstitute.net">
+                <h2>Get in touch! <i class="fa-solid fa-phone"></i></h2>
+                <label for="first_name">First Name</label>
+                <input type="text" name="first_name" id="first_name" class="text-input" placeholder="Your First Name*" required>
+                <br>
+                <label for="last_name">Last Name</label>
+                <input type="text" name="last_name" id="last_name" class="text-input" placeholder="Your Last Name*" required>
+                <br>
+                <label for="email_address">Email Address</label>
+                <input type="email" name="email_address" id="email_address" class="text-input" placeholder="Your Email Address*" required>
+                <br>
+                <label for="feedback-message">Leave a Message or Feedback</label>
+                <textarea id="feedback-message" class="text-input text-input-box" name="message" placeholder="How did we do today ? Give us your feedback - let us know what we got right and where we can do better !"></textarea>
+                <p>In which product you are interested?</p>
+                <br>
+                <div class="radio-buttons">
+                    <div>
+                        <label for="evolution">EVOlution</label>
+                        <input type="radio" name="product_type" id="evolution" value="evolution" required checked>
+                    </div>
+                    <div>
+                        <label for="revolution">REVOlution</label>
+                        <input type="radio" name="product_type" id="revolution" value="revolution" required>
+                    </div>
+                </div>
+                <button type="submit" class="submit-button">Send Message!</button>
+            </form>
+        </section>
+
+    </main>
 
     <!-- Footer-->
     <footer>

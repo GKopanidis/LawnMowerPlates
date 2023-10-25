@@ -22,7 +22,7 @@ h1 {
     font-family: 'Audiowide';
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525;
+    color: #fafafa;
     font-size: 150%;
     line-height: 75px;
     margin: 0 0.5rem;
@@ -54,7 +54,7 @@ h3 {
 
 /* Header */
 header {
-    background-color: #ffffff;
+    background-color: #3a3a3a;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -81,13 +81,14 @@ header a {
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fafafa;
 }
 
 /* Navbar style with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #ffffff;
+    background-color: #3a3a3a;
+    color: #fafafa;
     width: 100%;
     left: 0;
     padding-top: 0 1rem;
@@ -109,6 +110,7 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
+    color: #fafafa;
 }
 
 
@@ -117,6 +119,9 @@ main {
     /* Make main element take up any suprlus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 75px;
+    /* Enable Flex properties for child elements */
+    display: flex;
+    flex-direction: column;
 }
 
 /* Hero section */
@@ -129,7 +134,7 @@ main {
 
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
-    background-color: rgba(241, 109, 107, .7);
+    background-color: rgba(58, 58, 58, 0.7);
     font-size: 100%;
     position: absolute;
     bottom: 30px;
@@ -140,11 +145,11 @@ main {
 }
 
 #cover-text>h2 {
-    color: #ffffff;
+    color: #fafafa;
 }
 
 #cover-text>h3 {
-    color: #ffffff;
+    color: #fafafa;
     font-size: 80%;
 }
 
@@ -217,6 +222,7 @@ main {
 #benefits-3 h3 {
     /* Override the heading color set in general styles */
     color: #fafafa;
+    font-size: 90%;
 }
 
 /* Gallery Page */
@@ -229,6 +235,55 @@ main {
     line-height: 0;
 }
 
+/* Form */
+
+#contact {
+    background-image: url(../images/contact.webp);
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+#contact-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
+}
+
+#contact-form>h2 {
+    font-size: 130%;
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: rgba(255,255,255,0.5);
+    font-weight: 600;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+.radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.submit-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #454b1b;
+    color: #fafafa;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -236,12 +291,13 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: #3a3a3a;
 }
 
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #fafafa;
 }
 
 /*Media query for large and landscape phones (576px and above) */
@@ -250,7 +306,6 @@ main {
         column-count: 2;
         column-gap: 0;
     }
-
 }
 
 /*Media query for tablets and larger (768px and above) */
@@ -302,7 +357,7 @@ main {
         padding-left: 20px;
     }
 
-    /* Reasons Section */
+    /* Benefits Section */
     #benefits-1,
     #benefits-2 {
         display: flex;
@@ -324,12 +379,38 @@ main {
     #photos {
         column-count: 3;
     }
+
+    /* Form */
+    #contact {
+        background-position: center;
+        position: relative;
+    }
+
+    #contact-form {
+        max-width: 400px;
+        position: absolute;
+        left: 10%;
+        top: 100px;
+    }
+
+    .text-input:hover {
+        border-color: #f16c6b;
+    }
+
+    .submit-button:hover {
+        background-color: #fafafa;
+        color: #454b1b;
+    }
+
+    .text-input-box {
+        height: 200px;
+    }
 }
 
 /*Media query for tablets and larger (992px and above) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
-        border-bottom: 1px solid #3a3a3a;
+        border-bottom: 1px solid #fafafa;
     }
 
     /* Gallery */
@@ -364,6 +445,6 @@ main {
     }
 
     #benefits-2>div {
-        align-self: flex-end
+        align-self: flex-end;
     }
 }
