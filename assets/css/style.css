@@ -90,10 +90,17 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightblue;
     /* Make main element take up any suprlus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 75px;
+}
+
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/lawn.webp") no-repeat center center/cover;
+
 }
 
 /* Footer */
@@ -105,7 +112,7 @@ main {
     list-style-type: none;
 }
 
-#social-networks i{
+#social-networks i {
     font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
