@@ -62,7 +62,7 @@ nav {
     position: absolute;
     background-color: #ffffff;
     width: 100%;
-   left: 0;
+    left: 0;
     padding-top: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
@@ -94,4 +94,34 @@ main {
 /* Footer */
 footer {
     background-color: lightsalmon;
+}
+
+/*Media query for tablets and larger (768px and above) */
+@media screen and (min-width: 768px) {
+
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+    }
+
+    /* CSS to hide the last <li> element within the #menu <ul> */
+    #menu li:last-child {
+        display: none;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
