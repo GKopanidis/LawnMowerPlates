@@ -34,7 +34,7 @@ h2 {
     letter-spacing: 2px;
     color: #252525;
     font-size: 150%;
-    line-height: 30px;
+    line-height: 40px;
     margin: 0 0.5rem;
 }
 
@@ -251,11 +251,56 @@ main {
         padding-top: 20px;
         padding-left: 20px;
     }
+
+    /* Reasons Section */
+    #benefits-1, #benefits-2 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    #benefits-1 > div, #benefits-2 >div {
+        width: 75%;
+    }
+
+    #benefits-2 >div {
+        text-align: end;
+        align-self: flex-end;
+    }
 }
 
-/*Media query for tablets and larger (768px and above) */
+/*Media query for tablets and larger (992px and above) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+    }
+}
+
+/*Media query for tablets and larger (1200px and above) */
+@media screen and (min-width: 1200px) {
+    /* Reasons Section */
+    #benefits {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #beneftis > div {
+        flex: 1;
+    }
+
+    #benefits-image {
+        order: 0;
+    }
+
+    #benefits-1 {
+        order: 1;
+    }
+
+    #benefits-1 >div {
+        align-self: flex-start;
+    }
+
+    #benefits-2 > div {
+        align-self: flex-end    
     }
 }
