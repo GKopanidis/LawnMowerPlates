@@ -126,7 +126,7 @@ main {
 
 /* Hero section */
 #hero {
-    height: 600px;
+    height: 800px;
     width: 100%;
     background: url("../images/lawn.webp") no-repeat center center/cover;
     position: relative;
@@ -225,6 +225,48 @@ main {
     font-size: 90%;
 }
 
+/* Product page*/
+.product-container {
+    background: url(../images/contact.jpg) no-repeat center center/cover;
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    gap: 5px;
+    align-items: center;
+}
+
+.product-box {
+    background-color: #fafafa;
+    border: 1px solid #6b6b6b;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: calc(50% - 10px);
+    margin-bottom: 20px;
+}
+
+.product-box img {
+    max-width: 100%;
+}
+
+.product-box h2 {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+.product-box p {
+    color: #555;
+    padding-bottom: 10px;
+}
+
+.product-box .price {
+    font-weight: bold;
+    color: #ff0000;
+}
+
 /* Gallery Page */
 #photos img {
     width: 100%;
@@ -233,6 +275,46 @@ main {
 
 #photos {
     line-height: 0;
+}
+
+/* Company */
+#company-section {
+    background-image: url(../images/contact.jpg);
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+#company-section-box h2 {
+    font-size: 150%;
+    text-align: center;
+    color: #fafafa;
+    margin-bottom: 20px;
+    margin-top: 0;
+    background-color: rgba(60, 60, 60, 0.6);
+}
+
+#company-section-box p {
+    font-size: 130%;
+    text-align: center;
+    color: #fafafa;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(60, 60, 60, 0.6);
+}
+
+#location-map {
+    width: 100%;
+    height: 50rem;
+}
+
+#location-iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    scroll-behavior: unset;
+    margin: 0;
 }
 
 /* Form */
@@ -258,7 +340,7 @@ main {
 }
 
 .text-input {
-    background: rgba(255,255,255,0.5);
+    background: rgba(255, 255, 255, 0.5);
     font-weight: 600;
     color: #fafafa;
     width: 100%;
@@ -297,87 +379,6 @@ main {
     color: white;
     text-align: center;
     padding-top: 100px;
-}
-
-/* Product page*/
-.product-container {
-    max-width: 100%;    
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-    gap: 5px;
-    align-items: center;
-    margin: 20px;
-}
-
-.product-box {
-    background-color: #fafafa;
-    border: 1px solid #6b6b6b;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    text-align: center;
-    width: calc(50% - 10px); 
-    margin-bottom: 20px;
-}
-
-.product-box img {
-    max-width: 100%;
-}
-
-.product-box h2 {
-    font-size: 1.2em;
-    margin-top: 10px;
-}
-
-.product-box p {
-    color: #555;
-    padding-bottom: 10px;
-}
-
-.product-box .price {
-    font-weight: bold;
-    color: #ff0000;
-}
-
-#company-section {
-    background-image: url(../images/contact.jpg);
-    background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
-    flex-grow: 1;
-}
-
-#company-section-box h2 {
-    font-size: 150%;
-    text-align: center;
-    color: #fafafa;
-    margin-bottom: 20px;
-    margin-top: 0;
-    background-color: rgba(60, 60, 60, 0.6);
-}
-
-#company-section-box p{
-    font-size: 130%;
-    text-align: center;
-    color: #fafafa;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    background-color: rgba(60, 60, 60, 0.6);
-}
-
-#location-map {
-    width: 100%;
-    height: 50rem;
- }
- 
-#location-iframe {
-    width: 100%;
-    height: 100%;
-    border: none;
-    scroll-behavior: unset;
-    margin: 0;
 }
 
 /* Footer */
@@ -506,11 +507,11 @@ main {
 /*Media query for product conteiner (991px and below) */
 @media screen and (max-width: 991px) {
     .product-container {
-      display: flex;
-      flex-direction: column;
-      margin-bottom: 0;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 0;
     }
-  }
+}
 
 /*Media query for tablets and larger (992px and above) */
 @media screen and (min-width: 992px) {
