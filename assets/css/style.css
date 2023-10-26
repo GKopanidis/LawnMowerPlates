@@ -284,6 +284,22 @@ main {
     color: #fafafa;
 }
 
+/* Thank you page */
+#thankyou {
+    background-image: url(../images/contact.jpg);
+    background-size: cover;
+    background-position: 75%;
+    color: white;
+    text-align: center;
+}
+
+#thankyou-heading {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+/* Product page*/
 .product-container {
     max-width: 100%;    
     display: flex;
@@ -333,7 +349,7 @@ main {
     flex-grow: 1;
 }
 
-#company-section-box h2{
+#company-section-box h2 {
     font-size: 150%;
     text-align: center;
     color: #fafafa;
@@ -348,7 +364,6 @@ main {
     color: #fafafa;
     margin-top: 20px;
     margin-bottom: 20px;
-    color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
 }
 
@@ -381,38 +396,12 @@ main {
     color: #fafafa;
 }
 
-/*Media query for large and landscape phones (576px and below) */
-@media screen and (max-width: 576px) {
-    .product-box h2, p {
-      font-size: 18px;
-    }
-
-    .product-container {
-        max-width: 100%;
-        padding: 0;
-    }
-
-    .product-box {
-        width: 100%;
-        height: 100%;
-        padding: 5px;
-        margin: 5px;
-      }
-  }
-
 /*Media query for large and landscape phones (576px and above) */
 @media screen and (min-width: 576px) {
     #photos {
         column-count: 2;
         column-gap: 0;
     }
-
-    .product-box {
-        width: 100%;
-        height: 100%;
-        padding: 5px;
-        margin: 5px;
-      }
 }
 
 /*Media query for tablets and larger (768px and above) */
@@ -533,13 +522,6 @@ main {
     #photos {
         column-count: 4;
     }
-    
-    .product-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        margin-bottom: 30px;
-      }
 }
 
 /*Media query for tablets and larger (1200px and above) */
