@@ -193,7 +193,7 @@ The site contains all necessary features of a simple, functioning website.
 
   <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/22993cb3-2542-4915-b158-695f9d378aec" width="50%" height="50%">.
 
-<!-- TOC --><a name="browser-testing"></a>
+<!-- TOC --><a name="tested-browser"></a>
 - Tested Browser:
   
     <table>
