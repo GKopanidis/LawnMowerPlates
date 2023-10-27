@@ -278,7 +278,7 @@ No bugs found at this time.
   - From the source section drop-down menu, select the master branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-[The live link can be found here](https://gkopanidis.github.io/love-running-project/index.html "My Love Running Project")
+[The live link can be found here](https://gkopanidis.github.io/LawnMowerPlates/ "ZTTLPrint")
 
 <!-- TOC --><a name="credits"></a>
 ## Credits 
