@@ -1,6 +1,6 @@
-# ZTTL Print LAWN Mower Plates
+# ZTTL Print Lawn Mower Roboter Plates
 
-Welcome to the ZTTL Print - LAWN Mower Plates website!
+Welcome to the ZTTL Print - Lawn Mower Roboter Plates website!
 
 ![Mockup](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/f9adf6fd-8071-44ab-b2e1-b1d38b369085)
 
