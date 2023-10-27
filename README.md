@@ -17,6 +17,9 @@ Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
 
 - [Features](#features)
     - [Existing Features](#existing-features)
+ 
+- [Technolgies](#technologies)
+    - [Existing Features](#existing-features)
 
 - [Features Left to Implement](#features-left-to-implement)
 
@@ -120,7 +123,27 @@ The site contains all necessary features of a simple, functioning website.
 
 ![Footer](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/33c21837-0e6b-4d71-94e2-a9f3d828031a)
 
+<!-- TOC --><a name="technologies"></a>
+## Technologies
 
+* HTML
+    * The structure of the Website was developed using HTML as the main language.
+* CSS
+    * The Website was styled using custom CSS in an external file.
+* Visual Studio Code
+    * The website was developed using Visual Studio Code IDE
+* GitHub
+    * Source code is hosted on GitHub and delpoyed using Git Pages.
+* Git 
+    * Used to commit and push code during the development opf the Website
+* Font Awesome
+    * Icons obtained from [https://fontawesome.com/](https://fontawesome.com/) were used as the Social media links in the footer section. 
+* Tinyjpg
+    * [https://tinyjpg.com/](https://www.iloveimg.com/) was used to reduce the size of the images used throughout the website
+* Favicon.io
+    * favicon files were created at [https://favicon.io/favicon-converter/](https://favicon.io/favicon-converter/) 
+* balsamiq
+    * wireframes were created using balsamiq from [https://balsamiq.com/wireframes/desktop/#](https://balsamiq.com/wireframes/desktop/#)
 
 <!-- TOC --><a name="features-left-to-implement"></a>
 ### Features Left to Implement
@@ -244,19 +267,22 @@ No bugs found at this time.
 <!-- TOC --><a name="content"></a>
 ### Content 
 
-- The text for the Home page was taken from [CodeInstitute](https://www.codeinstitute.net)
-- The Fonts "Oswald" and "Lato" [Google Fonts](https://fonts.google.com)
-- Instructions on how to implement form validation on the Sign Up page was taken from [Code Institute Tutorial](https://www.codeinstitute.net/)
+- The Fonts "Audiowide" and "Roboto" [Google Fonts](https://fonts.google.com)
 - The icons in the header and footer were taken from [Font Awesome](https://fontawesome.com/)
 
 <!-- TOC --><a name="media"></a>
 ### Media
+
+Products, Company and Contact Background:
+
+Foto von <a href="https://unsplash.com/de/@jxk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jan Kopřiva</a> auf <a href="https://unsplash.com/de/fotos/%EB%85%B9%EC%83%89-%ED%92%80-TX6MuCRLSUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Foto von <a href="https://unsplash.com/de/@cafera13?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Carlos Felipe Ramírez Mesa</a> auf <a href="https://unsplash.com/de/fotos/eine-nahaufnahme-von-etwas-gras-cDkaW0WLNiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Foto von <a href="https://unsplash.com/de/@ptonchev?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Petar Tonchev</a> auf <a href="https://unsplash.com/de/fotos/grune-wiese-c-5-QE5kBYk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Gallery Pictures:
+
 Foto von <a href="https://unsplash.com/de/@jakenackos?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jake Nackos</a> auf <a href="https://unsplash.com/de/fotos/gruner-rasenplatz-tagsuber-C2PCa6DhlYE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Foto von <a href="https://unsplash.com/de/@jdent?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jason Dent</a> auf <a href="https://unsplash.com/de/fotos/%EC%9E%94%EB%94%94-%EC%9E%94%EB%94%94%EC%9D%98-%ED%8F%89%EB%A9%B4%EB%8F%84-QSIq9ncQkzY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -278,7 +304,3 @@ Foto von <a href="https://unsplash.com/de/@matcfelipe?utm_content=creditCopyText
 Foto von <a href="https://unsplash.com/de/@sunny000?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sonny Smith</a> auf <a href="https://unsplash.com/de/fotos/grunes-grasfeld-mit-lila-blumen-und-grunen-baumen-3wtwEERSx2I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Foto von <a href="https://unsplash.com/de/@pbanselme?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Bailey Anselme</a> auf <a href="https://unsplash.com/de/fotos/%ED%91%B8%EB%A5%B8-%EC%9E%94%EB%94%94%EB%B0%AD%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B0%88%EC%83%89-%EB%AA%A9%EC%A1%B0-%EC%A3%BC%ED%83%9D-Bkp3gLygyeA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
-Contact:
-
-Foto von <a href="https://unsplash.com/de/@jxk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jan Kopřiva</a> auf <a href="https://unsplash.com/de/fotos/%EB%85%B9%EC%83%89-%ED%92%80-TX6MuCRLSUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
