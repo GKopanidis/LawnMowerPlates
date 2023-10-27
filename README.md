@@ -55,7 +55,7 @@ The first [wireframes in Balsamiq](https://www.balsamiq.com) show a very simple 
 
 **Fonts:** The Fonts used: Audiowide and Roboto
 
-**Colours:** Colours used: #3a3a3a, #fafafa, #ffffff, #ff0000, #555
+**Colours:** Colours used: #3a3a3a, #fafafa, #ffffff, #ff0000, #555, #6aff00
 
 <!-- TOC --><a name="features"></a>
 ## Features 
