@@ -228,13 +228,13 @@ main {
 /* Product page*/
 .product-container {
     background: url(../images/contact.jpg) no-repeat center center/cover;
-    max-width: 100%;
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-between;
     gap: 5px;
-    align-items: center;
+    padding: 20px 20px 0 20px;    
+    min-height: 400px;
 }
 
 .product-box {
@@ -318,7 +318,6 @@ main {
 }
 
 /* Form */
-
 #contact {
     background-image: url(../images/contact.jpg);
     background-size: cover;
@@ -510,6 +509,10 @@ main {
         display: flex;
         flex-direction: column;
         margin-bottom: 0;
+    }
+
+    .product-box {
+        width: calc(100% - 10px);
     }
 }
 
