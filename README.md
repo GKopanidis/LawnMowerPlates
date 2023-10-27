@@ -19,7 +19,7 @@ Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
     - [Existing Features](#existing-features)
  
 - [Technolgies](#technologies)
-    - [Existing Features](#existing-features)
+    - [Existing Features](#technologies)
 
 - [Features Left to Implement](#features-left-to-implement)
 
