@@ -4,7 +4,7 @@ Welcome to the ZTTL Print - LAWN Mower Plates website!
 
 ![Mockup](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/f9adf6fd-8071-44ab-b2e1-b1d38b369085)
 
-Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
+Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html?target=_blank)
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/gkopanidis/LawnMowerPlates)
 
