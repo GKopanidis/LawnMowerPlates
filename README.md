@@ -297,8 +297,6 @@ Home, Products, Company and Contact Background:
 
 Photo from <a href="https://unsplash.com/de/@jxk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jan Kopřiva</a> at <a href="https://unsplash.com/de/fotos/%EB%85%B9%EC%83%89-%ED%92%80-TX6MuCRLSUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-Photo from <a href="https://unsplash.com/de/@cafera13?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Carlos Felipe Ramírez Mesa</a> at <a href="https://unsplash.com/de/fotos/eine-nahaufnahme-von-etwas-gras-cDkaW0WLNiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
 Photo from <a href="https://unsplash.com/de/@ptonchev?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Petar Tonchev</a> at <a href="https://unsplash.com/de/fotos/grune-wiese-c-5-QE5kBYk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Gallery Pictures:
@@ -322,5 +320,3 @@ Photo from <a href="https://unsplash.com/de/@gusruballo?utm_content=creditCopyTe
 Photo from <a href="https://unsplash.com/de/@matcfelipe?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mateus Campos Felipe</a> at <a href="https://unsplash.com/de/fotos/gruner-pfau-lIr7kVpooOQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 Photo from <a href="https://unsplash.com/de/@sunny000?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sonny Smith</a> at <a href="https://unsplash.com/de/fotos/grunes-grasfeld-mit-lila-blumen-und-grunen-baumen-3wtwEERSx2I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
-Photo from <a href="https://unsplash.com/de/@pbanselme?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Bailey Anselme</a> at <a href="https://unsplash.com/de/fotos/%ED%91%B8%EB%A5%B8-%EC%9E%94%EB%94%94%EB%B0%AD%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B0%88%EC%83%89-%EB%AA%A9%EC%A1%B0-%EC%A3%BC%ED%83%9D-Bkp3gLygyeA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
