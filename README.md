@@ -53,7 +53,7 @@ The first [wireframes in Balsamiq](https://www.balsamiq.com) show a very simple 
 <!-- TOC --><a name="font-and-colour-choices"></a>
 ### Font and Colour choices
 
-**Fonts:** The Fonts used: Audiowide and Roboto
+**Fonts:** The Fonts used: "Audiowide" and "Roboto"
 
 **Colours:** Colours used: #3a3a3a, #fafafa, #ffffff, #ff0000, #555, #6aff00
 
