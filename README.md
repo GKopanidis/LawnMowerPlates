@@ -162,36 +162,36 @@ The site contains all necessary features of a simple, functioning website.
 
     Index.html
 
-    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/441b3aca-e14d-4900-8cb8-6c72622bf777" width="200" height="200">.
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/441b3aca-e14d-4900-8cb8-6c72622bf777" width="200" height="200">
 
     Products.html
 
-    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3e0066d8-eb0e-4975-9006-ba2606976b61" width="200" height="200">.
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3e0066d8-eb0e-4975-9006-ba2606976b61" width="200" height="200">
 
     Gallery.html
 
-    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/b70dff3d-54f0-4789-9d9a-88fbeeb527ed" width="200" height="200">.
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/b70dff3d-54f0-4789-9d9a-88fbeeb527ed" width="200" height="200">
 
     Company.html
 
-    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3e1f9aca-70a5-43bf-8e16-53595a19e974" width="200" height="200">.
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3e1f9aca-70a5-43bf-8e16-53595a19e974" width="200" height="200">
 
     Contact.html
 
-    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/aeb3a05d-e53b-49f0-bbb9-6274ae11446c" width="200" height="200">.
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/aeb3a05d-e53b-49f0-bbb9-6274ae11446c" width="200" height="200">
 
 - CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
     
     CSS Stylesheet
 
-    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/618809e1-a505-43fb-894d-446cdcb5c248" width="200" height="200">.
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/618809e1-a505-43fb-894d-446cdcb5c248">
 
 - Performance, Accessibility, SEO, Best Practices (Lighthouse Chrome DevTools)
 
   Lighthouse rating
 
-  <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/22993cb3-2542-4915-b158-695f9d378aec" width="50%" height="50%">.
+  <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/22993cb3-2542-4915-b158-695f9d378aec" width="50%" height="50%">
 
 <!-- TOC --><a name="tested-browser"></a>
 - Tested Browser:
