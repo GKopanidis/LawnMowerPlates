@@ -25,7 +25,7 @@ Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
 
 - [Testing](#testing)
     - [Validator Testing](#validator-testing)
-    - [Browser Testing](#tested-browsers)
+    - [Browser Testing](#tested-browser)
     - [Manual Testing](#manual-testing)
     - [Responsiveness](#responsiveness)
     - [Fixed Bugs](#fixed-bugs)
