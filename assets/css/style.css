@@ -226,6 +226,11 @@ main {
 }
 
 /* Product page*/
+#products {
+    display: flex;
+    flex-direction: unset;
+}
+
 .product-container {
     background: url(../images/contact.jpg) no-repeat center center/cover;
     display: flex;
