@@ -27,6 +27,7 @@ Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
     - [Validator Testing](#validator-testing)
     - [Browser Testing](#tested-browsers)
     - [Manual Testing](#manual-testing)
+    - [Responsiveness](#responsiveness)
     - [Fixed Bugs](#fixed-bugs)
     - [Unfixed Bugs](#unfixed-bugs)
 
@@ -138,8 +139,8 @@ The site contains all necessary features of a simple, functioning website.
     * Used to commit and push code during the development opf the Website
 * Font Awesome
     * Icons obtained from [https://fontawesome.com/](https://fontawesome.com/) were used as the Social media links in the footer section. 
-* Tinyjpg
-    * [https://tinyjpg.com/](https://www.iloveimg.com/) was used to reduce the size of the images used throughout the website
+* Iloveimg
+    * [https://iloveimg.com/](https://www.iloveimg.com/) was used to reduce the size of the images used throughout the website
 * Favicon.io
     * favicon files were created at [https://favicon.io/favicon-converter/](https://favicon.io/favicon-converter/) 
 * balsamiq
@@ -241,6 +242,24 @@ The site contains all necessary features of a simple, functioning website.
 | **Contact Page**  | When entering a first name, last name, email address, message and select one option (radio buttons) the thankyou page appears. | Enter all fields and press "Send Message!" | Thankyou page appears and after 10sec it redirects to the index.html |
 | **Contact Page missing fields**  | When not entering a first name, last name or email address, which is not correct formatted, then an error appears. | Enter correct format into fields and press "Let's run! | Congratulations page appears and displays the entered fields |
 
+<!-- TOC --><a name="responsiveness"></a>
+### Responsiveness
+All pages were tested to ensure responsiveness on screen sizes from 320px and upwards as defined in [WCAG 2.1 Reflow criteria for responsive design](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html) on Chrome, Edge, Firefox and Safari browsers.
+
+Steps to test:
+
+1. Open browser and navigate to [ZTTLPrint](https://gkopanidis.github.io/LawnMowerPlates/)
+2. Open the developer tools (right click and inspect)
+3. Set to responsive and decrease width to 320px
+4. Set the zoom to 50%
+5. Click and drag the responsive window to maximum width
+
+Expected:
+
+Website is responsive on all screen sizes and no images are pixelated or stretched.
+No horizontal scroll is present.
+No elements overlap.
+
 <!-- TOC --><a name="fixed-bugs"></a>
 ### Fixed Bugs
 
@@ -268,12 +287,12 @@ No bugs found at this time.
 ### Content 
 
 - The Fonts "Audiowide" and "Roboto" [Google Fonts](https://fonts.google.com)
-- The icons in the header and footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the header, mainpage and footer were taken from [Font Awesome](https://fontawesome.com/)
 
 <!-- TOC --><a name="media"></a>
 ### Media
 
-Products, Company and Contact Background:
+Home, Products, Company and Contact Background:
 
 Foto von <a href="https://unsplash.com/de/@jxk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jan Kopřiva</a> auf <a href="https://unsplash.com/de/fotos/%EB%85%B9%EC%83%89-%ED%92%80-TX6MuCRLSUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
