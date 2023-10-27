@@ -79,7 +79,7 @@ The site contains all necessary features of a simple, functioning website.
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see how perfects lawns look like. 
+  - The gallery will provide the user with supporting images to see how perfect lawns look like. 
   
 ![Gallery](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3d2a61cd-e0f7-478c-9f48-ec15c11eee77)
 
