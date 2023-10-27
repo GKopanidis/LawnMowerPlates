@@ -138,28 +138,36 @@ The site contains all necessary features of a simple, functioning website.
 
     Index.html
 
-    <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/5004d992-b7c7-4d3f-af52-f5cfd00e905d" width="200" height="200">.
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/441b3aca-e14d-4900-8cb8-6c72622bf777" width="200" height="200">.
+
+    Products.html
+
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3e0066d8-eb0e-4975-9006-ba2606976b61" width="200" height="200">.
 
     Gallery.html
 
-    <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/0ffd795b-0b44-4a4d-b6e0-d349262f868d" width="200" height="200">.
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/b70dff3d-54f0-4789-9d9a-88fbeeb527ed" width="200" height="200">.
 
-    Signup.html
+    Company.html
 
-    <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/24edb3e2-1d6d-4e2c-9c38-a6281a75e564" width="200" height="200">.
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3e1f9aca-70a5-43bf-8e16-53595a19e974" width="200" height="200">.
+
+    Contact.html
+
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/aeb3a05d-e53b-49f0-bbb9-6274ae11446c" width="200" height="200">.
 
 - CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
     
     CSS Stylesheet
 
-    <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/b0163468-a9e2-41ce-8899-06051193c5c3" width="200" height="200">.
+    <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/618809e1-a505-43fb-894d-446cdcb5c248" width="200" height="200">.
 
 - Performance, Accessibility, SEO, Best Practices (Lighthouse Chrome DevTools)
 
   Lighthouse rating
 
-  <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/d1ece819-d197-4506-8dce-dcead5a4912d" width="50%" height="50%">.
+  <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/22993cb3-2542-4915-b158-695f9d378aec" width="50%" height="50%">.
  
 - Tested Browser:
   
@@ -207,17 +215,13 @@ The site contains all necessary features of a simple, functioning website.
 | :---------: | :----------:| :-----------: | :-----:|
 | **Links icons**  | Links open relevant websites in actual tab when clicked | Click all individual links | All respective sites open in active tab |
 | **Social link icons** | Social link icons open relevant websites in new tab when clicked| Click all individual icons | All respective sites open in new tab |
-| **Sign Up Page**  | When entering a first name, last name, email address and select one option (radio buttons) the congratulations page appears. | Enter all fields and press "Let's run! | Congratulations page appears and displays the entered fields |
-| **Sign Up Page missing fields**  | When not entering a first name, last name or email address, which is not correct formatted, then an error appears. | Enter correct format into fields and press "Let's run! | Congratulations page appears and displays the entered fields |
+| **Contact Page**  | When entering a first name, last name, email address, message and select one option (radio buttons) the thankyou page appears. | Enter all fields and press "Send Message!" | Thankyou page appears and after 10sec it redirects to the index.html |
+| **Contact Page missing fields**  | When not entering a first name, last name or email address, which is not correct formatted, then an error appears. | Enter correct format into fields and press "Let's run! | Congratulations page appears and displays the entered fields |
 
 <!-- TOC --><a name="fixed-bugs"></a>
 ### Fixed Bugs
 
-- Added indentifying heading to all sections
-
-  Missing h2 element
-
-  <img src="https://github.com/GKopanidis/love-running-project/assets/145017421/6df66ab3-77dc-4e5c-8b00-0ef4138c6575" width="50%" height="50%">.
+- Hide the thankyou.html on navbar
 
 <!-- TOC --><a name="unfixed-bugs"></a>
 ### Unfixed Bugs
@@ -248,5 +252,33 @@ No bugs found at this time.
 <!-- TOC --><a name="media"></a>
 ### Media
 
-- The photos used on the home and sign up page are from [CodeInstitute](https://www.codeinstitute.net)
-- The images used for the gallery page were taken from [CodeInstitute](https://www.codeinstitute.net)
+Foto von <a href="https://unsplash.com/de/@cafera13?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Carlos Felipe Ramírez Mesa</a> auf <a href="https://unsplash.com/de/fotos/eine-nahaufnahme-von-etwas-gras-cDkaW0WLNiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Foto von <a href="https://unsplash.com/de/@ptonchev?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Petar Tonchev</a> auf <a href="https://unsplash.com/de/fotos/grune-wiese-c-5-QE5kBYk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Gallery Pictures:
+Foto von <a href="https://unsplash.com/de/@jakenackos?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jake Nackos</a> auf <a href="https://unsplash.com/de/fotos/gruner-rasenplatz-tagsuber-C2PCa6DhlYE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Foto von <a href="https://unsplash.com/de/@jdent?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jason Dent</a> auf <a href="https://unsplash.com/de/fotos/%EC%9E%94%EB%94%94-%EC%9E%94%EB%94%94%EC%9D%98-%ED%8F%89%EB%A9%B4%EB%8F%84-QSIq9ncQkzY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Foto von <a href="https://unsplash.com/de/@chuttersnap?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">CHUTTERSNAP</a> auf <a href="https://unsplash.com/de/fotos/nahaufnahmefotograf-des-grunen-grases-rFD16ws0MQY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+Foto von <a href="https://unsplash.com/de/@denjiel21?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daniel Helpiansky</a> auf <a href="https://unsplash.com/de/fotos/weisses-und-blaues-haus-in-grunem-grasfeld-PaNoD2PO58o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+Foto von <a href="https://unsplash.com/de/@alexciland?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alejandra Cifre González</a> auf <a href="https://unsplash.com/de/fotos/weisses-und-braunes-betongebaude-in-der-nahe-von-grunem-grasfeld-tagsuber-5nYLmG1m5lw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Foto von <a href="https://unsplash.com/de/@ilchben?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Benjamin Ilchmann</a> auf <a href="https://unsplash.com/de/fotos/%EC%9E%94%EB%94%94%EC%97%90-%EB%88%84%EC%9B%8C-%EB%85%B8%EB%9E%80%EC%83%89-%EA%B3%A8%EB%93%A0-%EB%A6%AC%ED%8A%B8%EB%A6%AC%EB%B2%84-YlFwu8_9ZKo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+Foto von <a href="https://unsplash.com/de/@prescott3?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Prescott Horn</a> auf <a href="https://unsplash.com/de/fotos/%EB%82%98%EB%AC%B4-%EA%B7%BC%EC%B2%98-%ED%9D%B0%EC%83%89-2%EC%B8%B5-%EC%A7%91-vAY3RqwXLUQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+Foto von <a href="https://unsplash.com/de/@gusruballo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Gus Ruballo</a> auf <a href="https://unsplash.com/de/fotos/%EB%B0%A9%EA%B0%88%EB%A1%9C-%EC%A7%91%EC%9D%98-%ED%92%8D%EA%B2%BD-%EC%82%AC%EC%A7%84-h5QNclJUiA8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Foto von <a href="https://unsplash.com/de/@matcfelipe?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mateus Campos Felipe</a> auf <a href="https://unsplash.com/de/fotos/gruner-pfau-lIr7kVpooOQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+Foto von <a href="https://unsplash.com/de/@sunny000?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sonny Smith</a> auf <a href="https://unsplash.com/de/fotos/grunes-grasfeld-mit-lila-blumen-und-grunen-baumen-3wtwEERSx2I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Foto von <a href="https://unsplash.com/de/@pbanselme?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Bailey Anselme</a> auf <a href="https://unsplash.com/de/fotos/%ED%91%B8%EB%A5%B8-%EC%9E%94%EB%94%94%EB%B0%AD%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B0%88%EC%83%89-%EB%AA%A9%EC%A1%B0-%EC%A3%BC%ED%83%9D-Bkp3gLygyeA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Contact:
+
+Foto von <a href="https://unsplash.com/de/@jxk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jan Kopřiva</a> auf <a href="https://unsplash.com/de/fotos/%EB%85%B9%EC%83%89-%ED%92%80-TX6MuCRLSUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
