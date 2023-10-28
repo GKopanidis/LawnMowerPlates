@@ -81,6 +81,7 @@ The site contains all necessary features of a simple, functioning website.
 
 ![NavBar](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/87dec414-e9d0-4ec3-84ec-fed645aac281)
 
+
 - __The landing page image__
 
    - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
@@ -88,11 +89,13 @@ The site contains all necessary features of a simple, functioning website.
 
 ![Landing Page](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/1cbbab69-45b0-47b0-9bc4-d7b48196bbd7)
 
+
 - __Reasons Section__
 
    - The reasons will allow the user to see the benefits of buying the mower blade plates.
 
 ![Reasons](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/bf0ef34c-9491-40d4-ba62-181f5e194f40)
+
 
 - __Benefits section__
 
@@ -101,6 +104,7 @@ The site contains all necessary features of a simple, functioning website.
 
 ![Benefits](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/f7653cf6-1641-4a6e-83bc-771a084cf704)
 
+
 - __The Footer__
 
    - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
@@ -108,11 +112,13 @@ The site contains all necessary features of a simple, functioning website.
 
 ![Footer](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/33c21837-0e6b-4d71-94e2-a9f3d828031a)
 
+
 - __Products Page__
 
    - The products page shows the products with price and some technical informations.
 
 ![Products](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/d0774098-b9a6-4553-834c-ff1f82cc5d62)
+
 
 - __Gallery__
 
@@ -120,11 +126,13 @@ The site contains all necessary features of a simple, functioning website.
 
 ![Gallery](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3d2a61cd-e0f7-478c-9f48-ec15c11eee77)
 
+
 - __The Company Page__
 
    - This page shows the user where the company headquarter is and how to get there. You can also find the telephone number and email address there.
 
 ![Company](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/f9b7ba01-1bae-4f44-a63f-4c9145ef6090)
+
 
 - __The Contact Page__
 
@@ -132,11 +140,13 @@ The site contains all necessary features of a simple, functioning website.
 
 ![Contact](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/162f2cd6-cf02-4f0e-942d-ad2b4658047e)
 
+
 - __The Thankyou Page__
 
    - This page will show the Thankyou message, afer submitting the form and the information, that it will be automatically redirect to the start page.
 
 ![Thankyou](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/2e7da55a-096c-49e4-8cbe-dbd8d18d75d5)
+
 
 - __The 404 error Page__
 
@@ -277,8 +287,9 @@ The site contains all necessary features of a simple, functioning website.
 | :---------: | :----------:| :-----------: | :-----:|
 | **Links icons**  | Links open relevant websites in actual tab when clicked | Click all individual links | All respective sites open in active tab |
 | **Social link icons** | Social link icons open relevant websites in new tab when clicked| Click all individual icons | All respective sites open in new tab |
-| **Contact Page**  | When entering a first name, last name, email address, message and select one option (radio buttons) the thankyou page appears. | Enter all fields and press "Send Message!" | Thankyou page appears and after 10sec it redirects to the index.html |
-| **Contact Page missing fields**  | When not entering a first name, last name or email address, which is not correct formatted, then an error appears. | Enter correct format into fields and press "Let's run! | Congratulations page appears and displays the entered fields |
+| **Contact Page**  | When entering a first name, last name, email address, message and select one option (radio buttons) the thankyou page appears | Enter all fields and press "Send Message!" | Thankyou page appears and after 10sec it redirects to the index.html |
+| **Contact Page missing fields**  | When not entering a first name, last name or email address, which is not correct formatted, then an error appears | Enter correct format into fields and press "Send Message!" | Congratulations page appears and displays the entered fields |
+| **404 Page**  | When entering a wrong url, then an 404 error appears | Enter incorrect url in address bar and press enter | 404 error page appears and displays the message and a link to the main page |
 
 <!-- TOC --><a name="responsiveness"></a>
 
