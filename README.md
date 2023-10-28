@@ -88,24 +88,6 @@ The site contains all necessary features of a simple, functioning website.
 
 ![Landing Page](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/1cbbab69-45b0-47b0-9bc4-d7b48196bbd7)
 
-- __Gallery__
-
-   - The gallery will provide the user with supporting images to see how perfect lawns look like.
-
-![Gallery](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3d2a61cd-e0f7-478c-9f48-ec15c11eee77)
-
-- __The Company Page__
-
-   - This page shows the user where the company headquarter is and how to get there. You can also find the telephone number and email address there.
-
-![Company](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/f9b7ba01-1bae-4f44-a63f-4c9145ef6090)
-
-- __The Contact Page__
-
-   - This page will allow the user to sent a message with the desired product.
-
-![Contact](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/162f2cd6-cf02-4f0e-942d-ad2b4658047e)
-
 - __Reasons Section__
 
    - The reasons will allow the user to see the benefits of buying the mower blade plates.
@@ -125,6 +107,43 @@ The site contains all necessary features of a simple, functioning website.
    - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/33c21837-0e6b-4d71-94e2-a9f3d828031a)
+
+- __Products Page__
+
+   - The products page shows the products with price and some technical informations.
+
+![Products](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/d0774098-b9a6-4553-834c-ff1f82cc5d62)
+
+- __Gallery__
+
+   - The gallery will provide the user with supporting images to see how perfect lawns look like.
+
+![Gallery](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3d2a61cd-e0f7-478c-9f48-ec15c11eee77)
+
+- __The Company Page__
+
+   - This page shows the user where the company headquarter is and how to get there. You can also find the telephone number and email address there.
+
+![Company](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/f9b7ba01-1bae-4f44-a63f-4c9145ef6090)
+
+- __The Contact Page__
+
+   - This page will allow the user to sent a message with the desired product.
+
+![Contact](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/162f2cd6-cf02-4f0e-942d-ad2b4658047e)
+
+- __The Thankyou Page__
+
+   - This page will show the Thankyou message, afer submitting the form and the information, that it will be automatically redirect to the start page.
+
+![Thankyou](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/2e7da55a-096c-49e4-8cbe-dbd8d18d75d5)
+
+- __The 404 error Page__
+
+   - This page will show the the custom 404 page, if someone clicks on a broken link.
+
+![404](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/cc54e37c-803e-4ef9-afaf-bb2dddce5833)
+
 
 <!-- TOC --><a name="technologies"></a>
 
@@ -211,7 +230,7 @@ The site contains all necessary features of a simple, functioning website.
 
 <!-- TOC --><a name="tested-browser"></a>
 
-- Tested Browser:
+- Tested Browser (latest versions):
 
      <table>
        <thead>
