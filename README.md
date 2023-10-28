@@ -325,8 +325,6 @@ Background image for Main-, Products-, Company-, Contact-, Thankyou- and 404-Pag
 
 Photo from <a href="https://unsplash.com/de/@jxk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jan Kopřiva</a> @ <a href="https://unsplash.com/de/fotos/%EB%85%B9%EC%83%89-%ED%92%80-TX6MuCRLSUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-Photo from <a href="https://unsplash.com/de/@cafera13?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Carlos Felipe Ramírez Mesa</a> @ <a href="https://unsplash.com/de/fotos/eine-nahaufnahme-von-etwas-gras-cDkaW0WLNiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
 Photo from <a href="https://unsplash.com/de/@ptonchev?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Petar Tonchev</a> @ <a href="https://unsplash.com/de/fotos/grune-wiese-c-5-QE5kBYk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Gallery Pictures:
