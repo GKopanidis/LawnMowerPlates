@@ -224,6 +224,15 @@ The site contains all necessary features of a simple, functioning website.
 
       <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/aeb3a05d-e53b-49f0-bbb9-6274ae11446c" width="200" height="200">
 
+      Thankyou.html
+     
+      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/8678b63c-b8e0-4c4c-8b0d-e5f73d6b473c" width="200" height="200">
+     
+      404.html
+
+      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3afd52ee-b458-455e-9f5d-3e118e3ee32b" width="200" height="200">
+
+
 - CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
 
    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
