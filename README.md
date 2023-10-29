@@ -206,31 +206,31 @@ The site contains all necessary features of a simple, functioning website.
 
       Index.html
 
-      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/441b3aca-e14d-4900-8cb8-6c72622bf777" width="200" height="200">
+      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/441b3aca-e14d-4900-8cb8-6c72622bf777" width="75%" height="75%">
 
       Products.html
 
-      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3e0066d8-eb0e-4975-9006-ba2606976b61" width="200" height="200">
+      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3e0066d8-eb0e-4975-9006-ba2606976b61" width="75%" height="75%">
 
       Gallery.html
 
-      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/b70dff3d-54f0-4789-9d9a-88fbeeb527ed" width="200" height="200">
+      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/b70dff3d-54f0-4789-9d9a-88fbeeb527ed" width="75%" height="75%">
 
       Company.html
 
-      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3e1f9aca-70a5-43bf-8e16-53595a19e974" width="200" height="200">
+      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3e1f9aca-70a5-43bf-8e16-53595a19e974" width="75%" height="75%">
 
       Contact.html
 
-      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/aeb3a05d-e53b-49f0-bbb9-6274ae11446c" width="200" height="200">
+      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/aeb3a05d-e53b-49f0-bbb9-6274ae11446c" width="75%" height="75%">
 
       Thankyou.html
      
-      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/8678b63c-b8e0-4c4c-8b0d-e5f73d6b473c" width="200" height="200">
+      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/8678b63c-b8e0-4c4c-8b0d-e5f73d6b473c" width="75%" height="75%">
      
       404.html
 
-      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3afd52ee-b458-455e-9f5d-3e118e3ee32b" width="200" height="200">
+      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3afd52ee-b458-455e-9f5d-3e118e3ee32b" width="75%" height="75%">
 
 
 - CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
@@ -360,13 +360,13 @@ No bugs found at this time.
 
 ### Media
 
-Background image for Main-, Products-, Company-, Contact-, Thankyou- and 404-Page  :
+### Background image for Main-, Products-, Company-, Contact-, Thankyou- and 404-Page  :
 
 Photo from <a href="https://unsplash.com/de/@jxk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jan Kopřiva</a> @ <a href="https://unsplash.com/de/fotos/%EB%85%B9%EC%83%89-%ED%92%80-TX6MuCRLSUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Photo from <a href="https://unsplash.com/de/@ptonchev?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Petar Tonchev</a> @ <a href="https://unsplash.com/de/fotos/grune-wiese-c-5-QE5kBYk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-Gallery Pictures:
+### Gallery Pictures:
 
 Photo from <a href="https://unsplash.com/de/@jakenackos?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jake Nackos</a> @ <a href="https://unsplash.com/de/fotos/gruner-rasenplatz-tagsuber-C2PCa6DhlYE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
@@ -389,10 +389,6 @@ Photo from <a href="https://unsplash.com/de/@matcfelipe?utm_content=creditCopyTe
 Photo from <a href="https://unsplash.com/de/@sunny000?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sonny Smith</a> @ <a href="https://unsplash.com/de/fotos/grunes-grasfeld-mit-lila-blumen-und-grunen-baumen-3wtwEERSx2I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Photo from <a href="https://unsplash.com/de/@pbanselme?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Bailey Anselme</a> @ <a href="https://unsplash.com/de/fotos/%ED%91%B8%EB%A5%B8-%EC%9E%94%EB%94%94%EB%B0%AD%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B0%88%EC%83%89-%EB%AA%A9%EC%A1%B0-%EC%A3%BC%ED%83%9D-Bkp3gLygyeA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
-Contact:
-
-Photo from <a href="https://unsplash.com/de/@jxk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jan Kopřiva</a> @ <a href="https://unsplash.com/de/fotos/%EB%85%B9%EC%83%89-%ED%92%80-TX6MuCRLSUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 <!-- TOC --><a name="acknowledgments"></a>
 
