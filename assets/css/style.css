@@ -360,6 +360,7 @@ main {
     border: 1px solid #fafafa;
     border-radius: 2px;
     padding: 0 5px;
+    resize: vertical;
 }
 
 .radio-buttons {
@@ -433,6 +434,13 @@ main {
 
 .container a {
     color: #ffffff;
+}
+
+/*Media query for mobile phones (575px and below) */
+@media screen and (max-width: 575px) {
+    #contact-form i {
+    display: none;
+    }
 }
 
 /*Media query for large and landscape phones (576px and above) */
