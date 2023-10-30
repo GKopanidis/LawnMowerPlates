@@ -394,4 +394,4 @@ Photo from <a href="https://unsplash.com/de/@pbanselme?utm_content=creditCopyTex
 
 ### Acknowledgments
 
-- Thank you to my mentor Gareth McGirr who provided me with lots of pointers on resources to help with coding!
+- Thank you to my mentor [Gareth-McGirr](https://github.com/Gareth-McGirr) who provided me with lots of pointers on resources to help with coding!
