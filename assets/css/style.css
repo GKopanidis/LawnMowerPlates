@@ -125,7 +125,7 @@ main {
 
 /* Hero section */
 #hero {
-    height: 800px;
+    height: 30vh;
     width: 100%;
     background: url("../images/lawn.webp") no-repeat center center/cover;
     position: relative;
