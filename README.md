@@ -32,10 +32,15 @@ Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
    - [Browser Testing](#tested-browser)
    - [Manual Testing](#manual-testing)
    - [Responsiveness](#responsiveness)
+   - [Accessibility](#accessibility)
    - [Fixed Bugs](#fixed-bugs)
    - [Unfixed Bugs](#unfixed-bugs)
 
 - [Deployment](#deployment)
+   - [Version Control](#version-control)
+   - [Deployment to Github Pages](#deployment-github)
+   - [Clone the Repository Code Locally](#clone-repo-locally)
+      
 - [Credits](#credits)
 
    - [Credits](#credits)
@@ -192,6 +197,10 @@ The site contains all necessary features of a simple, functioning website.
 
 - Add more products in the future.
 
+(Since I haven't learned JAVA at this point, this function could not be integrated yet)
+- Form data store to databse 
+- Email notification to business email address, when form was filled out and sent. 
+
 <!-- TOC --><a name="testing"></a>
 
 ## Testing
@@ -320,6 +329,22 @@ Website is responsive on all screen sizes and no images are pixelated or stretch
 No horizontal scroll is present.
 No elements overlap.
 
+<!-- TOC --><a name="accessibility"></a>
+
+### Accessibility
+[Wave Accessibility](https://wave.webaim.org/) tool was used throughout development and for final testing of the deployed website to check for any aid accessibility testing.
+
+Testing was focused to ensure the following criteria were met:
+
+- All forms have associated labels or aria-labels so that this is read out on a screen reader to users who tab to form inputs
+- Color contrasts meet a minimum ratio as specified in [WCAG 2.1 Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
+- Heading levels are not missed or skipped to ensure the importance of content is relayed correctly to the end user
+- All content is contained within landmarks to ensure ease of use for assistive technology, allowing the user to navigate by page regions
+- All not textual content had alternative text or titles so descriptions are read out to screen readers
+- HTML page lang attribute has been set
+- Aria properties have been implemented correctly
+- WCAG 2.1 Coding best practices being followed
+
 <!-- TOC --><a name="fixed-bugs"></a>
 
 ### Fixed Bugs
@@ -336,12 +361,44 @@ No bugs found at this time.
 
 ## Deployment
 
+<!-- TOC --><a name="version-control"></a>
+
+### Version Control
+
+The site was created using the Visual Studio code editor and pushed to github to the remote repository ‘tacos-travels’.
+
+The following git commands were used throughout development to push code to the remote repo:
+
+```git add <file>``` - This command was used to add the file(s) to the staging area before they are committed.
+
+```git commit -m “commit message”``` - This command was used to commit changes to the local repository queue ready for the final step.
+
+```git push``` - This command was used to push all committed code to the remote repository on github.
+
+<!-- TOC --><a name="deployment-github"></a>
+
+### Deployment to Github Pages
+
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
    - In the GitHub repository, navigate to the Settings tab
    - From the source section drop-down menu, select the master branch
    - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 [The live link can be found here](https://gkopanidis.github.io/LawnMowerPlates/ "ZTTLPrint")
+
+<!-- TOC --><a name="clone-repo-locally"></a>
+
+### Clone the Repository Code Locally
+
+Navigate to the GitHub Repository you want to clone to use locally:
+
+- Click on the code drop down button
+- Click on HTTPS
+- Copy the repository link to the clipboard
+- Open your IDE of choice (git must be installed for the next steps)
+- Type git clone copied-git-url into the IDE terminal
+
+The project will now of been cloned on your local machine for use.
 
 <!-- TOC --><a name="credits"></a>
 
