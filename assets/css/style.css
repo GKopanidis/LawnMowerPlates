@@ -125,8 +125,6 @@ nav {
     border: 0;
 }
 
-
-
 /* Main content */
 main {
     /* Make main element take up any suprlus space to push footer down*/
@@ -397,14 +395,13 @@ main {
     background-image: url(../images/contact.webp);
     background-size: cover;
     background-position: 75%;
-    color: white;
-    text-align: center;
 }
 
-#thankyou-heading {
-    color: white;
+.thankyou {
+    color: #fafafa;
     text-align: center;
-    padding-top: 100px;
+    margin: 50px 50px;
+    background: rgba(60, 60, 60, 0.6);
 }
 
 /* Footer */
