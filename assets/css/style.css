@@ -187,7 +187,7 @@ main {
 }
 
 #circle-cover-bg {
-    background: url("../images/navimow_stand.jpg") no-repeat center/cover;
+    background: url("../images/navimow_stand.webp") no-repeat center/cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -206,7 +206,7 @@ main {
 /* Further Benefits Section */
 
 #benefits-3 {
-    background: url("../images/further-benefits-bg.jpg") no-repeat center/cover;
+    background: url("../images/further-benefits-bg.webp") no-repeat center/cover;
     /* Handles responsivity with the need for a media query */
     display: flex;
     flex-wrap: wrap;
@@ -238,7 +238,7 @@ main {
 }
 
 .product-container {
-    background: url(../images/contact.jpg) no-repeat center center/cover;
+    background: url(../images/contact.webp) no-repeat center center/cover;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -291,7 +291,7 @@ main {
 
 /* Company */
 #company-section {
-    background-image: url(../images/contact.jpg);
+    background-image: url(../images/contact.webp);
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -331,7 +331,7 @@ main {
 
 /* Form */
 #contact {
-    background-image: url(../images/contact.jpg);
+    background-image: url(../images/contact.webp);
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -379,7 +379,7 @@ main {
 
 /* Thank you page */
 #thankyou {
-    background-image: url(../images/contact.jpg);
+    background-image: url(../images/contact.webp);
     background-size: cover;
     background-position: 75%;
     color: white;
@@ -418,7 +418,7 @@ main {
 
 /* 404 page*/
 .container {
-    background-image: url(../images/contact.jpg);
+    background-image: url(../images/contact.webp);
     background-size: cover;
     background-position: 75%;
     color: #fafafa;
