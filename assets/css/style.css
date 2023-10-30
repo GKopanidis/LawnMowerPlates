@@ -95,6 +95,7 @@ nav {
     display: none;
     top: 100%;
     font-size: 90%;
+    text-align: right;
 }
 
 /* Nav toggle */
