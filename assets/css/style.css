@@ -532,9 +532,6 @@ main {
 
     #contact-form {
         max-width: 400px;
-        position: absolute;
-        left: 10%;
-        top: 100px;
     }
 
     .text-input:hover {
