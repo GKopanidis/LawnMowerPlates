@@ -29,6 +29,7 @@ Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
 - [Testing](#testing)
 
    - [Validator Testing](#validator-testing)
+   - [Light House Reports](#lighthouse)
    - [Browser Testing](#tested-browser)
    - [Manual Testing](#manual-testing)
    - [Responsiveness](#responsiveness)
@@ -250,11 +251,41 @@ The site contains all necessary features of a simple, functioning website.
 
       <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/618809e1-a505-43fb-894d-446cdcb5c248">
 
-- Performance, Accessibility, SEO, Best Practices (Lighthouse Chrome DevTools)
 
-   Lighthouse rating
+<!-- TOC --><a name="lighthouse"></a>
 
-   <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/22993cb3-2542-4915-b158-695f9d378aec" width="50%" height="50%">
+### Lighthouse Chrome DevTools
+
+- Performance, Accessibility, SEO, Best Practices
+
+     Index HTML
+
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/dce70ecf-5834-4e4c-8192-ca90c26ada2d">
+
+     Products HTML
+
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/f32e309f-ab6c-4727-8358-0bc6dc46ad00">
+     
+     Gallery HTML
+     
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/7514cfa3-3e14-4263-a322-1ffe935be8fb">
+
+     Company HTML
+
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/ba86dd0b-0717-40a8-8e99-7b0fb44499f2">
+
+     Contact HTML
+
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/7cb1013e-3203-4702-8add-63b876ffb308">
+
+     Thankyou HTML
+
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/a912f244-26b2-4590-b1b1-13b0abcdc626">
+
+     404 HTML
+
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/02ab54fb-52e0-475f-be30-192b7fb9151f">
+
 
 <!-- TOC --><a name="tested-browser"></a>
 
