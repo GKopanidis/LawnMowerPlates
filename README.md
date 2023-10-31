@@ -48,6 +48,7 @@ Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
    - [Content](#content)
    - [Media](#media)
 
+
 <!-- TOC --><a name="overview"></a>
 
 ## Overview
@@ -55,6 +56,7 @@ Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
 The ZTTL Print website is for mower blades for the Segway Navimow. If you're looking for the perfect cutting result, you'll find it here.
 
 <!-- TOC --><a name="wireframes"></a>
+
 
 ## Wireframes
 
@@ -64,17 +66,20 @@ The first [wireframes in Balsamiq](https://www.balsamiq.com) show a very simple 
 
 <!-- TOC --><a name="font-and-colour-choices"></a>
 
+
 ### Font and Colour choices
 
 **Fonts:** The Fonts used: "Audiowide" and "Roboto"
 
 **Colours:** Colours used: #3a3a3a, #fafafa, #ffffff, #ff0000, #555, #6aff00
 
+
 <!-- TOC --><a name="features"></a>
 
 ## Features
 
 The site contains all necessary features of a simple, functioning website.
+
 
 <!-- TOC --><a name="existing-features"></a>
 
@@ -192,6 +197,7 @@ The site contains all necessary features of a simple, functioning website.
 * balsamiq
    * wireframes were created using balsamiq from [https://balsamiq.com/wireframes/desktop/#](https://balsamiq.com/wireframes/desktop/#)
 
+
 <!-- TOC --><a name="features-left-to-implement"></a>
 
 ### Features Left to Implement
@@ -202,9 +208,11 @@ The site contains all necessary features of a simple, functioning website.
 - Form data store to databse 
 - Email notification to business email address, when form was filled out and sent. 
 
+
 <!-- TOC --><a name="testing"></a>
 
 ## Testing
+
 
 <!-- TOC --><a name="validator-testing"></a>
 
@@ -328,6 +336,7 @@ The site contains all necessary features of a simple, functioning website.
        </tbody>
      </table>
 
+
 <!-- TOC --><a name="manual-testing"></a>
 
 ### Manual Testing
@@ -339,6 +348,7 @@ The site contains all necessary features of a simple, functioning website.
 | **Contact Page**  | When entering a first name, last name, email address, message and select one option (radio buttons) the thankyou page appears | Enter all fields and press "Send Message!" | Thankyou page appears and after 10sec it redirects to the index.html |
 | **Contact Page missing fields**  | When not entering a first name, last name or email address, which is not correct formatted, then an error appears | Enter correct format into fields and press "Send Message!" | Congratulations page appears and displays the entered fields |
 | **404 Page**  | When entering a wrong url, then an 404 error appears | Enter incorrect url in address bar and press enter | 404 error page appears and displays the message and a link to the main page |
+
 
 <!-- TOC --><a name="responsiveness"></a>
 
@@ -360,6 +370,7 @@ Website is responsive on all screen sizes and no images are pixelated or stretch
 No horizontal scroll is present.
 No elements overlap.
 
+
 <!-- TOC --><a name="accessibility"></a>
 
 ### Accessibility
@@ -376,11 +387,13 @@ Testing was focused to ensure the following criteria were met:
 - Aria properties have been implemented correctly
 - WCAG 2.1 Coding best practices being followed
 
+
 <!-- TOC --><a name="fixed-bugs"></a>
 
 ### Fixed Bugs
 
 - Hide the thankyou.html on navbar
+
 
 <!-- TOC --><a name="unfixed-bugs"></a>
 
@@ -388,9 +401,11 @@ Testing was focused to ensure the following criteria were met:
 
 No bugs found at this time.
 
+
 <!-- TOC --><a name="deployment"></a>
 
 ## Deployment
+
 
 <!-- TOC --><a name="version-control"></a>
 
@@ -406,6 +421,7 @@ The following git commands were used throughout development to push code to the 
 
 ```git push``` - This command was used to push all committed code to the remote repository on github.
 
+
 <!-- TOC --><a name="deployment-github"></a>
 
 ### Deployment to Github Pages
@@ -416,6 +432,7 @@ The following git commands were used throughout development to push code to the 
    - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 [The live link can be found here](https://gkopanidis.github.io/LawnMowerPlates/ "ZTTLPrint")
+
 
 <!-- TOC --><a name="clone-repo-locally"></a>
 
@@ -431,9 +448,11 @@ Navigate to the GitHub Repository you want to clone to use locally:
 
 The project will now of been cloned on your local machine for use.
 
+
 <!-- TOC --><a name="credits"></a>
 
 ## Credits
+
 
 <!-- TOC --><a name="content"></a>
 
@@ -443,6 +462,7 @@ The project will now of been cloned on your local machine for use.
 - Thanks to [Gareth-McGirr](https://github.com/Gareth-McGirr) for sharing the information, on how to bypass the forumdump on the html file to get an ThankYou message, after submitting the form under contact and helping me for fixing a flexbox style, when page is smaller then 992px, so the product containers switch from row to column.
 - The Fonts "Audiowide" and "Roboto" [Google Fonts](https://fonts.google.com)
 - The icons in the header, mainpage and footer were taken from [Font Awesome](https://fontawesome.com/)
+
 
 <!-- TOC --><a name="media"></a>
 
@@ -477,6 +497,7 @@ Photo from <a href="https://unsplash.com/de/@matcfelipe?utm_content=creditCopyTe
 Photo from <a href="https://unsplash.com/de/@sunny000?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sonny Smith</a> @ <a href="https://unsplash.com/de/fotos/grunes-grasfeld-mit-lila-blumen-und-grunen-baumen-3wtwEERSx2I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Photo from <a href="https://unsplash.com/de/@pbanselme?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Bailey Anselme</a> @ <a href="https://unsplash.com/de/fotos/%ED%91%B8%EB%A5%B8-%EC%9E%94%EB%94%94%EB%B0%AD%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B0%88%EC%83%89-%EB%AA%A9%EC%A1%B0-%EC%A3%BC%ED%83%9D-Bkp3gLygyeA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 
 <!-- TOC --><a name="acknowledgments"></a>
 
