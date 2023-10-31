@@ -476,8 +476,6 @@ Photo from <a href="https://unsplash.com/de/@ptonchev?utm_content=creditCopyText
 
 ### Gallery Pictures:
 
-Photo from <a href="https://unsplash.com/de/@jakenackos?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jake Nackos</a> @ <a href="https://unsplash.com/de/fotos/gruner-rasenplatz-tagsuber-C2PCa6DhlYE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
 Photo from <a href="https://unsplash.com/de/@jdent?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jason Dent</a> @ <a href="https://unsplash.com/de/fotos/%EC%9E%94%EB%94%94-%EC%9E%94%EB%94%94%EC%9D%98-%ED%8F%89%EB%A9%B4%EB%8F%84-QSIq9ncQkzY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Photo from <a href="https://unsplash.com/de/@chuttersnap?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">CHUTTERSNAP</a> @ <a href="https://unsplash.com/de/fotos/nahaufnahmefotograf-des-grunen-grases-rFD16ws0MQY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -495,8 +493,6 @@ Photo from <a href="https://unsplash.com/de/@gusruballo?utm_content=creditCopyTe
 Photo from <a href="https://unsplash.com/de/@matcfelipe?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mateus Campos Felipe</a> @ <a href="https://unsplash.com/de/fotos/gruner-pfau-lIr7kVpooOQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Photo from <a href="https://unsplash.com/de/@sunny000?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sonny Smith</a> @ <a href="https://unsplash.com/de/fotos/grunes-grasfeld-mit-lila-blumen-und-grunen-baumen-3wtwEERSx2I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
-Photo from <a href="https://unsplash.com/de/@pbanselme?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Bailey Anselme</a> @ <a href="https://unsplash.com/de/fotos/%ED%91%B8%EB%A5%B8-%EC%9E%94%EB%94%94%EB%B0%AD%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B0%88%EC%83%89-%EB%AA%A9%EC%A1%B0-%EC%A3%BC%ED%83%9D-Bkp3gLygyeA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Photo from <a href="https://unsplash.com/de/@clarenceehsu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Clarence E. Hsu</a> @ <a href="https://unsplash.com/de/fotos/%EC%97%B4%EB%A6%B0-%ED%95%84%EB%93%9C-%EA%B7%BC%EC%B2%98%EC%97%90-%EC%84%9C%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-U7q1T-7l-1M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
