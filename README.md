@@ -268,31 +268,31 @@ The site contains all necessary features of a simple, functioning website.
 
      Index HTML
 
-     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/dce70ecf-5834-4e4c-8192-ca90c26ada2d">
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/5b12a5d1-aa08-418f-bd6c-42e65951efe1">
 
      Products HTML
 
-     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/f32e309f-ab6c-4727-8358-0bc6dc46ad00">
-     
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/56421cf9-a9f6-4009-8b23-89e19298cf78">
+
      Gallery HTML
      
-     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/7514cfa3-3e14-4263-a322-1ffe935be8fb">
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/a132c2b3-0b92-46a7-9d75-0b1de7499c4c">
 
      Company HTML
 
-     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/ba86dd0b-0717-40a8-8e99-7b0fb44499f2">
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/b5dec573-d41c-4593-9614-1d4ae11b0eb6">
 
      Contact HTML
 
-     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/7cb1013e-3203-4702-8add-63b876ffb308">
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/35b11088-573e-4cbc-b9a0-6266987b5f59">
 
      Thankyou HTML
 
-     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/a912f244-26b2-4590-b1b1-13b0abcdc626">
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/14fad211-1965-4a5a-926c-8aa08b46fa20">
 
      404 HTML
 
-     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/02ab54fb-52e0-475f-be30-192b7fb9151f">
+     <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/7964397b-d817-4d82-8209-fed960b19b3d">
 
 
 <!-- TOC --><a name="tested-browser"></a>
