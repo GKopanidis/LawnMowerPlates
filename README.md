@@ -108,7 +108,7 @@ The site contains all the necessary features of a simple, functioning website.
 
 - __Navigation Bar__
 
-   - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Products, Gallery, Company, and Contact page and is identical in each page to allow for easy navigation.
+   - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Products, Gallery, Company, and Contact page and is identical on each page to allow for easy navigation.
    - This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button.
 
 ![NavBar](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/87dec414-e9d0-4ec3-84ec-fed645aac281)
@@ -484,7 +484,7 @@ The project will now be cloned on your local machine for use.
 - Thanks to [Dee-McG](https://github.com/Dee-McG) for helping with this video for the 404 page [Create a custom 404 error page](https://www.youtube.com/watch?v=Jj42_s3KnuM&list=PLXuTq6OsqZjYGLkK4d0RExJ98-m-IOIc2&index=3)
 - Thanks to [Gareth-McGirr](https://github.com/Gareth-McGirr) for sharing the information, on how to bypass the forum dump on the HTML file to get a ThankYou message, after submitting the form under contact and helping me for fixing a flexbox style, when the page is smaller than 992px, so the product containers switch from row to column.
 - The Fonts "Audiowide" and "Roboto" [Google Fonts](https://fonts.google.com)
-- The icons in the header, main page and footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the header, main page, and footer were taken from [Font Awesome](https://fontawesome.com/)
 - The code for HTML and CSS was partially from the walkthrough project from [Code Institute](https://codeinstitute.net) with modified code.
 
 
