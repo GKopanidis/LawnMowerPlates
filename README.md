@@ -414,7 +414,7 @@ Testing was focused to ensure the following criteria were met:
 
 - Hide the thankyou.html on navbar
 - Wave Error: Alternative text duplicate on products img
-- Wave Error: Visually hidden text for screen-readers ->  [Link to solution](https://medium.com/web-accessibility-tips-tricks-and-techniques-for/web-accessibility-tip-visually-hidden-text-for-screen-readers-a52d954d9711#:~:text=sr%2Donly%20declaration%20block%20does,invisible%20to%20the%20human%20eye) (Thanks to [Gareth-McGirr](https://github.com/Gareth-McGirr))
+- Wave Error: Visually hidden text for screen-readers ->  [Link to solution](https://medium.com/web-accessibility-tips-tricks-and-techniques-for/web-accessibility-tip-visually-hidden-text-for-screen-readers-a52d954d9711#:~:text=sr%2Donly%20declaration%20block%20does,invisible%20to%20the%20human%20eye) (Thanks to [Gareth-McGirr](https://github.com/Gareth-McGirr) for the link)
 
 
 <!-- TOC --><a name="unfixed-bugs"></a>
