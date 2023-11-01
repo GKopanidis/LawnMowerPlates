@@ -15,7 +15,6 @@ Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
 ## * [Index - Table of Contents](#index---table-of-contents)
 
 - [Overview](#overview)
-
    - [Wireframes](#wireframes)
    - [Font and Colours](#font-and-colour-choices)
 
@@ -100,7 +99,7 @@ Thankyou HTML
 
 ## Features
 
-The site contains all necessary features of a simple, functioning website.
+The site contains all the necessary features of a simple, functioning website.
 
 
 <!-- TOC --><a name="existing-features"></a>
@@ -109,16 +108,16 @@ The site contains all necessary features of a simple, functioning website.
 
 - __Navigation Bar__
 
-   - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Products, Gallery, Company and Contact page and is identical in each page to allow for easy navigation.
-   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+   - Featured on all five pages, the full responsive navigation bar includes links to the Logo, Home page, Products, Gallery, Company, and Contact page and is identical in each page to allow for easy navigation.
+   - This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button.
 
 ![NavBar](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/87dec414-e9d0-4ec3-84ec-fed645aac281)
 
 
 - __The landing page image__
 
-   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-   - This section introduces the user to the mowing plates with an eye catching picture to grab their attention
+   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would apply to.
+   - This section introduces the user to the mowing plates with an eye-catching picture to grab their attention
 
 ![Landing Page](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/1cbbab69-45b0-47b0-9bc4-d7b48196bbd7)
 
@@ -132,7 +131,7 @@ The site contains all necessary features of a simple, functioning website.
 
 - __Benefits section__
 
-   - This section will allow the user to see exactly the beneftis of the products.
+   - This section will allow the user to see exactly the benefits of the products.
    - This section will be updated as these times change to keep the user up to date.
 
 ![Benefits](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/f7653cf6-1641-4a6e-83bc-771a084cf704)
@@ -148,42 +147,42 @@ The site contains all necessary features of a simple, functioning website.
 
 - __Products Page__
 
-   - The products page shows the products with price and some technical informations.
+   - The products page shows the products with prices and some technical information.
 
 ![Products](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/d0774098-b9a6-4553-834c-ff1f82cc5d62)
 
 
 - __Gallery__
 
-   - The gallery will provide the user with supporting images to see how perfect lawns look like.
+   - The gallery will provide the user with supporting images to see what perfect lawns look like.
 
 ![Gallery](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/3d2a61cd-e0f7-478c-9f48-ec15c11eee77)
 
 
 - __The Company Page__
 
-   - This page shows the user where the company headquarter is and how to get there. You can also find the telephone number and email address there.
+   - This page shows the user where the company headquarters is and how to get there. You can also find the telephone number and email address there.
 
 ![Company](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/f9b7ba01-1bae-4f44-a63f-4c9145ef6090)
 
 
 - __The Contact Page__
 
-   - This page will allow the user to sent a message with the desired product.
+   - This page will allow the user to send a message with the desired product.
 
 ![Contact](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/162f2cd6-cf02-4f0e-942d-ad2b4658047e)
 
 
 - __The Thankyou Page__
 
-   - This page will show the Thankyou message, afer submitting the form and the information, that it will be automatically redirect to the start page.
+   - This page will show the Thankyou message, after submitting the form and the information, it will be automatically redirected to the start page.
 
 ![Thankyou](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/2e7da55a-096c-49e4-8cbe-dbd8d18d75d5)
 
 
 - __The 404 error Page__
 
-   - This page will show the the custom 404 page, if someone clicks on a broken link.
+   - This page will show the custom 404 page if someone clicks on a broken link.
 
 ![404](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/cc54e37c-803e-4ef9-afaf-bb2dddce5833)
 
@@ -202,10 +201,10 @@ The site contains all necessary features of a simple, functioning website.
    * The website was developed using Visual Studio Code IDE
 
 * GitHub
-   * Source code is hosted on GitHub and delpoyed using Git Pages.
+   * Source code is hosted on GitHub and deployed using Git Pages.
 
 * Git
-   * Used to commit and push code during the development opf the Website
+   * Used to commit and push code during the development of the Website
 
 * Font Awesome
    * Icons obtained from [https://fontawesome.com/](https://fontawesome.com/) were used as the Social media links in the footer section.
@@ -216,8 +215,8 @@ The site contains all necessary features of a simple, functioning website.
 * Favicon.io
    * favicon files were created at [https://favicon.io/favicon-converter/](https://favicon.io/favicon-converter/)
 
-* balsamiq
-   * wireframes were created using balsamiq from [https://balsamiq.com/wireframes/desktop/#](https://balsamiq.com/wireframes/desktop/#)
+* Balsamiq
+   * wireframes were created using Balsamiq from [https://balsamiq.com/wireframes/desktop/#](https://balsamiq.com/wireframes/desktop/#)
 
 
 <!-- TOC --><a name="features-left-to-implement"></a>
@@ -227,7 +226,7 @@ The site contains all necessary features of a simple, functioning website.
 - Add more products in the future.
 
 (Since I haven't learned JAVA at this point, this function could not be integrated yet)
-- Form data store to databse 
+- Form data store to database
 - Email notification to business email address, when form was filled out and sent. 
 
 
@@ -366,29 +365,29 @@ The site contains all necessary features of a simple, functioning website.
 | Feature     | Expect      | Action        | Result |
 | :---------: | :----------:| :-----------: | :-----:|
 | **Links icons**  | Links open relevant websites in actual tab when clicked | Click all individual links | All respective sites open in active tab |
-| **Social link icons** | Social link icons open relevant websites in new tab when clicked| Click all individual icons | All respective sites open in new tab |
-| **Contact Page**  | When entering a first name, last name, email address, message and select one option (radio buttons) the thankyou page appears | Enter all fields and press "Send Message!" | Thankyou page appears and after 10sec it redirects to the index.html |
-| **Contact Page missing fields**  | When not entering a first name, last name or email address, which is not correct formatted, then an error appears | Enter correct format into fields and press "Send Message!" | Congratulations page appears and displays the entered fields |
-| **404 Page**  | When entering a wrong url, then an 404 error appears | Enter incorrect url in address bar and press enter | 404 error page appears and displays the message and a link to the main page |
+| **Social link icons** | Social link icons open relevant websites a new tab when clicked| Click all individual icons | All respective sites open a new tab |
+| **Contact Page**  | When entering a first name, last name, email address, and message and selecting one option (radio buttons) the thankyou page appears | Enter all fields and press "Send Message!" | Thankyou page appears and after 10sec it redirects to the index.html |
+| **Contact Page missing fields**  | When not entering a first name, last name, or email address, which is not correctly formatted, then an error appears | Enter the correct format into fields and press "Send Message!" | Congratulations page appears and displays the entered fields |
+| **404 Page**  | When entering a wrong URL, a 404 error appears | Enter the incorrect URL in the address bar and press enter | 404 error page appears and displays the message and a link to the main page |
 
 
 <!-- TOC --><a name="responsiveness"></a>
 
 ### Responsiveness
 
-All pages were tested to ensure responsiveness on screen sizes from 320px and upwards as defined in [WCAG 2.1 Reflow criteria for responsive design](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html) on Chrome, Edge, Firefox and Safari browsers.
+All pages were tested to ensure responsiveness on screen sizes from 320px and upwards as defined in [WCAG 2.1 Reflow criteria for responsive design](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html) on Chrome, Edge, Firefox, and Safari browsers.
 
 Steps to test:
 
-1. Open browser and navigate to [ZTTLPrint](https://gkopanidis.github.io/LawnMowerPlates/)
-2. Open the developer tools (right click and inspect)
+1. Open the browser and navigate to [ZTTLPrint](https://gkopanidis.github.io/LawnMowerPlates/)
+2. Open the developer tools (right-click and inspect)
 3. Set to responsive and decrease width to 320px
 4. Set the zoom to 50%
-5. Click and drag the responsive window to maximum width
+5. Click and drag the responsive window to a maximum width
 
 Expected:
 
-Website is responsive on all screen sizes and no images are pixelated or stretched.
+The Website is responsive on all screen sizes and no images are pixelated or stretched.
 No horizontal scroll is present.
 No elements overlap.
 
@@ -396,7 +395,7 @@ No elements overlap.
 <!-- TOC --><a name="accessibility"></a>
 
 ### Accessibility
-[Wave Accessibility](https://wave.webaim.org/) tool was used throughout development and for final testing of the deployed website to check for any aid accessibility testing.
+[Wave Accessibility](https://wave.webaim.org/) tool was used throughout the development and for the final testing of the deployed website to check for any aid accessibility testing.
 
 Testing was focused to ensure the following criteria were met:
 
@@ -404,7 +403,7 @@ Testing was focused to ensure the following criteria were met:
 - Color contrasts meet a minimum ratio as specified in [WCAG 2.1 Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
 - Heading levels are not missed or skipped to ensure the importance of content is relayed correctly to the end user
 - All content is contained within landmarks to ensure ease of use for assistive technology, allowing the user to navigate by page regions
-- All not textual content had alternative text or titles so descriptions are read out to screen readers
+- All not textual content had alternative text or titles so descriptions were read out to screen readers
 - HTML page lang attribute has been set
 - Aria properties have been implemented correctly
 - WCAG 2.1 Coding best practices being followed
@@ -414,8 +413,8 @@ Testing was focused to ensure the following criteria were met:
 
 ### Fixed Bugs
 
-- Hide the thankyou.html on navbar
-- Wave Error: Alternative text duplicate on products img
+- Hide the thankyou.html on the navbar
+- Wave Error: Alternative text duplicate on product image
 - Wave Error: Visually hidden text for screen-readers ->  [Link to solution](https://medium.com/web-accessibility-tips-tricks-and-techniques-for/web-accessibility-tip-visually-hidden-text-for-screen-readers-a52d954d9711#:~:text=sr%2Donly%20declaration%20block%20does,invisible%20to%20the%20human%20eye) (Thanks to [Gareth-McGirr](https://github.com/Gareth-McGirr) for the link)
 
 
@@ -435,7 +434,7 @@ No bugs found at this time.
 
 ### Version Control
 
-The site was created using the Visual Studio code editor and pushed to github to the remote repository ‘tacos-travels’.
+The site was created using the Visual Studio code editor and pushed to Git Hub to the remote repository ‘tacos-travels’.
 
 The following git commands were used throughout development to push code to the remote repo:
 
@@ -443,7 +442,7 @@ The following git commands were used throughout development to push code to the 
 
 ```git commit -m “commit message”``` - This command was used to commit changes to the local repository queue ready for the final step.
 
-```git push``` - This command was used to push all committed code to the remote repository on github.
+```git push``` - This command was used to push all committed code to the remote repository on Git Hub.
 
 
 <!-- TOC --><a name="deployment-github"></a>
@@ -464,13 +463,13 @@ The following git commands were used throughout development to push code to the 
 
 Navigate to the GitHub Repository you want to clone to use locally:
 
-- Click on the code drop down button
+- Click on the code drop-down button
 - Click on HTTPS
 - Copy the repository link to the clipboard
 - Open your IDE of choice (git must be installed for the next steps)
-- Type git clone copied-git-url into the IDE terminal
+- Type git clone copied-git-URL into the IDE terminal
 
-The project will now of been cloned on your local machine for use.
+The project will now be cloned on your local machine for use.
 
 
 <!-- TOC --><a name="credits"></a>
@@ -483,10 +482,10 @@ The project will now of been cloned on your local machine for use.
 ### Content
 
 - Thanks to [Dee-McG](https://github.com/Dee-McG) for helping with this video for the 404 page [Create a custom 404 error page](https://www.youtube.com/watch?v=Jj42_s3KnuM&list=PLXuTq6OsqZjYGLkK4d0RExJ98-m-IOIc2&index=3)
-- Thanks to [Gareth-McGirr](https://github.com/Gareth-McGirr) for sharing the information, on how to bypass the forumdump on the html file to get an ThankYou message, after submitting the form under contact and helping me for fixing a flexbox style, when page is smaller then 992px, so the product containers switch from row to column.
+- Thanks to [Gareth-McGirr](https://github.com/Gareth-McGirr) for sharing the information, on how to bypass the forum dump on the HTML file to get a ThankYou message, after submitting the form under contact and helping me for fixing a flexbox style, when the page is smaller than 992px, so the product containers switch from row to column.
 - The Fonts "Audiowide" and "Roboto" [Google Fonts](https://fonts.google.com)
-- The icons in the header, mainpage and footer were taken from [Font Awesome](https://fontawesome.com/)
-- The code for html and css was partially from the walkthrough project from [Code Institute](https://codeinstitute.net) with modified code.
+- The icons in the header, main page and footer were taken from [Font Awesome](https://fontawesome.com/)
+- The code for HTML and CSS was partially from the walkthrough project from [Code Institute](https://codeinstitute.net) with modified code.
 
 
 <!-- TOC --><a name="media"></a>
