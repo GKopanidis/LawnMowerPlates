@@ -191,13 +191,13 @@ The site contains all the necessary features of a simple, functioning website.
 
 ## Technologies
 
-* HTML
+* HTML ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    * The structure of the Website was developed using HTML as the main language.
 
-* CSS
+* CSS ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
    * The Website was styled using custom CSS in an external file.
 
-* Visual Studio Code
+* Visual Studio Code [VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
    * The website was developed using Visual Studio Code IDE
 
 * GitHub
@@ -217,6 +217,11 @@ The site contains all the necessary features of a simple, functioning website.
 
 * Balsamiq
    * wireframes were created using Balsamiq from [https://balsamiq.com/wireframes/desktop/#](https://balsamiq.com/wireframes/desktop/#)
+ 
+* Shields.io
+   * shields created with [Shields.io](https://shields.io/badges/static-badge)
+     and
+     [more shields](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 
 <!-- TOC --><a name="features-left-to-implement"></a>
