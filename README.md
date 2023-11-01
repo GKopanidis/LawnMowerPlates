@@ -62,7 +62,27 @@ The ZTTL Print website is for mower blades for the Segway Navimow. If you're loo
 
 The first [wireframes in Balsamiq](https://www.balsamiq.com) show a very simple layout of the most essential features, aiming for a minimum viable product.
 
-![Wireframes](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/a4c1d581-0a86-4304-ae0d-e4ea807e8ce2)
+Index HTML
+![IndexHTML](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/72567e5d-c88d-437c-b73b-339034ce2cb4)
+
+Products HTML
+![ProductsHTML](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/5b5e01ba-9fd7-4eed-ac9f-5aab5d902267)
+
+Gallery HTML
+![GalleryHTML](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/544d3538-3f75-4a93-bbd9-90064c3bc8fd)
+
+Company HTML
+![CompanyHTML](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/d49d8457-7d34-45df-b1b2-2a69ba5717bd)
+
+Contact HTML
+![ContactHTML](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/1b188476-3499-4d2d-ae7b-ced362755841)
+
+Thankyou HTML
+![ThankyouHTML](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/65e08e18-79da-4b5c-ab3a-3778f6828b5b)
+
+404-error HTML
+![404HTML](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/b31bfd10-aef5-4527-9de7-f97d205c9711)
+
 
 <!-- TOC --><a name="font-and-colour-choices"></a>
 
