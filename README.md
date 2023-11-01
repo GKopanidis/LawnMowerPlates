@@ -55,7 +55,7 @@ Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
 
 ## Overview
 
-The ZTTL Print website is for mower blades for the Segway Navimow. If you're looking for the perfect cutting result, you'll find it here.
+The ZTTL Print website is for mower blades for the Segway Navimow Robot Lawn Mower. If you're looking for the perfect cutting result, you'll find it here.
 
 <!-- TOC --><a name="wireframes"></a>
 
