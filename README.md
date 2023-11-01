@@ -486,6 +486,7 @@ The project will now of been cloned on your local machine for use.
 - Thanks to [Gareth-McGirr](https://github.com/Gareth-McGirr) for sharing the information, on how to bypass the forumdump on the html file to get an ThankYou message, after submitting the form under contact and helping me for fixing a flexbox style, when page is smaller then 992px, so the product containers switch from row to column.
 - The Fonts "Audiowide" and "Roboto" [Google Fonts](https://fonts.google.com)
 - The icons in the header, mainpage and footer were taken from [Font Awesome](https://fontawesome.com/)
+- The code for html and css was partially from the walkthrough project from [Code Institute](https://codeinstitute.net) with modified code.
 
 
 <!-- TOC --><a name="media"></a>
