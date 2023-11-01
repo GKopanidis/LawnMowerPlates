@@ -483,9 +483,10 @@ The project will now be cloned on your local machine for use.
 
 - Thanks to [Dee-McG](https://github.com/Dee-McG) for helping with this video for the 404 page [Create a custom 404 error page](https://www.youtube.com/watch?v=Jj42_s3KnuM&list=PLXuTq6OsqZjYGLkK4d0RExJ98-m-IOIc2&index=3)
 - Thanks to [Gareth-McGirr](https://github.com/Gareth-McGirr) for sharing the information, on how to bypass the forum dump on the HTML file to get a ThankYou message, after submitting the form under contact and helping me for fixing a flexbox style, when the page is smaller than 992px, so the product containers switch from row to column.
-- The Fonts "Audiowide" and "Roboto" [Google Fonts](https://fonts.google.com)
+- The fonts "Audiowide" and "Roboto" [Google Fonts](https://fonts.google.com)
 - The icons in the header, main page, and footer were taken from [Font Awesome](https://fontawesome.com/)
 - The code for HTML and CSS was partially from the walkthrough project from [Code Institute](https://codeinstitute.net) with modified code.
+- The table of contents was made with [Markdown TOC generator](https://derlin.github.io/bitdowntoc/)
 
 
 <!-- TOC --><a name="media"></a>
