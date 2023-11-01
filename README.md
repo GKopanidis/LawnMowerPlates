@@ -6,7 +6,9 @@ Welcome to the ZTTL Print - Lawn Mower Roboter Plates website!
 
 Link to [live site](https://gkopanidis.github.io/LawnMowerPlates/index.html)
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/gkopanidis/LawnMowerPlates)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/gkopanidis/LawnMowerPlates) 
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fgkopanidis.github.io%2FLawnMowerPlates%2Findex.html)
+
 
 <!-- TOC --><a name="-index-table-of-contents"></a>
 
