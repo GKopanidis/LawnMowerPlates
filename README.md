@@ -197,7 +197,7 @@ The site contains all the necessary features of a simple, functioning website.
 * CSS ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
    * The Website was styled using custom CSS in an external file.
 
-* Visual Studio Code [VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+* Visual Studio Code ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
    * The website was developed using Visual Studio Code IDE
 
 * GitHub
@@ -283,7 +283,7 @@ The site contains all the necessary features of a simple, functioning website.
 
       CSS Stylesheet
 
-      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/618809e1-a505-43fb-894d-446cdcb5c248">
+      <img src="https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/357f1844-7222-4686-8b95-15fbc02075bd" width="75%" height="75%">
 
 
 <!-- TOC --><a name="lighthouse"></a>
@@ -421,14 +421,15 @@ Testing was focused to ensure the following criteria were met:
 - Hide the thankyou.html on the navbar
 - Wave Error: Alternative text duplicate on product image
 - Wave Error: Visually hidden text for screen-readers ->  [Link to solution](https://medium.com/web-accessibility-tips-tricks-and-techniques-for/web-accessibility-tip-visually-hidden-text-for-screen-readers-a52d954d9711#:~:text=sr%2Donly%20declaration%20block%20does,invisible%20to%20the%20human%20eye) (Thanks to [Gareth-McGirr](https://github.com/Gareth-McGirr) for the link)
+  NOTE: Wave flagged an error, but i have added a hidden span for screenreaders:
 
+![Wave_Error flagged](https://github.com/GKopanidis/LawnMowerPlates/assets/145017421/9f465723-2dcd-4df4-801a-a689ddf2c345)
 
 <!-- TOC --><a name="unfixed-bugs"></a>
 
 ### Unfixed Bugs
 
-No bugs found at this time.
-
+- No bugs found at this time
 
 <!-- TOC --><a name="deployment"></a>
 
@@ -439,7 +440,7 @@ No bugs found at this time.
 
 ### Version Control
 
-The site was created using the Visual Studio code editor and pushed to Git Hub to the remote repository ‘tacos-travels’.
+The site was created using the Visual Studio code editor and pushed to Git Hub to the remote repository ‘LawnMowerPlates’.
 
 The following git commands were used throughout development to push code to the remote repo:
 
